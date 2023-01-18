@@ -1,1 +1,1 @@
-# gl-cl-interop-camera
+# OpenCL-path-tracing
