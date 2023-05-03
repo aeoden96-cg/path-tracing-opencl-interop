@@ -1,0 +1,5 @@
+opencl-clhpp
+opencl-headers
+opencl-nvidia
+glew
+sfml
